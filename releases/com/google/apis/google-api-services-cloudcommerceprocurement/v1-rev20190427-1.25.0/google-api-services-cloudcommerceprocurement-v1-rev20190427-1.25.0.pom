@@ -60,11 +60,11 @@
   
     <distributionManagement>
         <repository>
-            <id>floreysoft-releases</id>
+            <id>bkper-releases</id>
             <url>file:../mvn-repo/releases</url>
         </repository>
         <snapshotRepository>
-            <id>floreysoft-snapshot</id>
+            <id>bkper-snapshot</id>
             <url>file:../mvn-repo/snapshots</url>
         </snapshotRepository>
     </distributionManagement>  
